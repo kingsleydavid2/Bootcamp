@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="saleforceproject.createaccount">
+      <class name="saleforceproject.DeleteIndividuals">
         <methods>
-          <include name="createaccount1"/>
+          <include name="DeleteIndividuals1"/>
         </methods>
-      </class> <!-- saleforceproject.createaccount -->
+      </class> <!-- saleforceproject.DeleteIndividuals -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
